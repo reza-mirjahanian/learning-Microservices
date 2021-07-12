@@ -9,3 +9,12 @@ the door of any distributed system.
 (SOA) is a design approach where multiple services
 collaborate to provide some end set of capabilities. A service here typically means a
 completely separate operating system process.
+
+###Governance
+Governance ensures that enterprise objectives are achieved by evaluating stakeholder
+needs, conditions and options; setting direction through prioritisation and decision
+making; and monitoring performance, compliance and progress against agreed-on
+direction and objectives.
+
+###What makes a good service?
+loose coupling and high cohesion
