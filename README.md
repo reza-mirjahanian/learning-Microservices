@@ -21,3 +21,10 @@ loose coupling and high cohesion
 
 ###Onion Architecture
 Onion Architecture is based on the inversion of control principle. Onion Architecture is comprised of multiple concentric layers interfacing each other towards the core that represents the domain. The architecture does not depend on the data layer as in classic multi-tier architectures, but on the actual domain models.
+
+###Remote Procedure Calls
+Remote procedure call refers to the technique of making a local call and having it execute
+on a remote service somewhere
+Many of these technologies are binary in nature, like Java RMI, Thrift, or protocol buffers,
+while SOAP uses XML for its message formats. Some implementations are tied to a
+specific networking protocol
